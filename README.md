@@ -1,2 +1,1 @@
-# flask
-Flask kurulumu ve ilk uygulama
+=== FLASK NEDİR?
